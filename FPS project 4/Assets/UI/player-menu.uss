@@ -1,0 +1,33 @@
+.player-info {
+    max-height: 40%;
+    width: 80%;
+    align-items: stretch;
+    align-self: center;
+}
+
+.panel {
+}
+
+.health-container {
+    max-width: 420px;
+}
+
+.health-bar .unity-progress-bar__progress {
+    background-color: #eb2f06;
+}
+
+.unity-progress-bar__container {
+    min-height: 10px;
+    height: 18px;
+}
+
+.unity-progress-bar__background {
+    border-radius: 3px;
+    background-color: #444444;
+}
+
+.unity-progress-bar__progress {
+    height: 16px;
+    margin: 0;
+    border-radius: 2px;
+}
